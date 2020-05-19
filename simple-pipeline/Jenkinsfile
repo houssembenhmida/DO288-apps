@@ -5,7 +5,7 @@ pipeline {
     }
     agent {
       node {
-        labes 'master'
+        label 'master'
       }
     }
 
