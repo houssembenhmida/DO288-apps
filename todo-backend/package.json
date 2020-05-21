@@ -1,6 +1,6 @@
 {
   "name": "todo-backend",
-  "description": "multicontainer version of the todoapp",
+  "description": "multi-container version of the todoapp",
   "version": "0.0.2",
   "private": true,
   "author": "Red Hat Training",
